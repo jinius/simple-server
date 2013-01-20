@@ -1,4 +1,4 @@
-simple-server
+SimpleServer
 =============
 
 Simple server prototype
